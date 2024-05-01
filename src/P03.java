@@ -6,6 +6,7 @@ public class P03 {
         Scanner scn=new Scanner(System.in);
         System.out.println("Lutfen adinizi giriniz");
         String isim=scn.nextLine();
+        System.out.println("Girdiginiz isim"+ isim +"olarak kaydedildi");
 
     }
 }

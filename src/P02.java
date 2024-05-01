@@ -3,6 +3,7 @@ public class P02 {
         System.out.println("Merhaba");
 
         System.out.println("GitHub calismam");
+        System.out.println("Versiyon deneme");
 
     }
 }
